@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Big Bang Theory apartment</name>
+	<description>A fictional apartment of Leonard, Sheldon and Penny from TV show The Big Bang Theory. It was showed in episode S05E24 &quot;The Launch Acceleration&quot;. The picture shows Howard and Bernadette getting maried on the rooftop while being captured by Google Earth satellite.</description>
+	<Icon>
+		<href>bigbang.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>34.14226292161921</north>
+		<south>34.14196486642648</south>
+		<east>-118.1383953943553</east>
+		<west>-118.1390949806648</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
